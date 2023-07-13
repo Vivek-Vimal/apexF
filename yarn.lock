@@ -4208,11 +4208,6 @@
     "@typescript-eslint/types" "5.62.0"
     eslint-visitor-keys "^3.3.0"
 
-"@use-it/event-listener@^0.1.2":
-  version "0.1.6"
-  resolved "https://registry.npmjs.org/@use-it/event-listener/-/event-listener-0.1.6.tgz"
-  integrity sha512-e6V7vbU8xpuqy4GZkTLExHffOFgxmGHo3kNWnlhzM/zcX2v+idbD/HaJ9sKdQMgTh+L7MIhdRDXGX3SdAViZzA==
-
 "@vercel/nft@^0.22.0":
   version "0.22.6"
   resolved "https://registry.yarnpkg.com/@vercel/nft/-/nft-0.22.6.tgz#edb30d300bb809c0945ea4c7b87e56f634885541"
@@ -8299,11 +8294,6 @@ damerau-levenshtein@^1.0.6:
   version "1.0.6"
   resolved "https://registry.npmjs.org/damerau-levenshtein/-/damerau-levenshtein-1.0.6.tgz"
   integrity sha512-JVrozIeElnj3QzfUIt8tB8YMluBJom4Vw9qTPpjGYQ9fYlB3D/rb6OordUxf3xeFB35LKWs0xqcO5U6ySvBtug==
-
-dark-mode-toggle@^0.9.0:
-  version "0.9.0"
-  resolved "https://registry.npmjs.org/dark-mode-toggle/-/dark-mode-toggle-0.9.0.tgz"
-  integrity sha512-e7ZZn/qr+AOvONce6qCkTCoRBPJR+4q29oH2cNoM+68XFU/ySeP8/2mCioqij2nMPfMwpopd6YvZyuaf4eCVjQ==
 
 dashdash@^1.12.0:
   version "1.14.1"
@@ -14349,11 +14339,6 @@ lodash.camelcase@^4.3.0:
   resolved "https://registry.yarnpkg.com/lodash.camelcase/-/lodash.camelcase-4.3.0.tgz#b28aa6288a2b9fc651035c7711f65ab6190331a6"
   integrity sha512-TwuEnCnxbc3rAvhf/LbG7tJUDzhqXyFnv3dtzLOPgCG/hODL7WFnsbwktkD7yUV0RrreP/l1PALq/YSg6VvjlA==
 
-lodash.clonedeep@^4.5.0:
-  version "4.5.0"
-  resolved "https://registry.npmjs.org/lodash.clonedeep/-/lodash.clonedeep-4.5.0.tgz"
-  integrity sha1-4j8/nE+Pvd6HJSnBBxhXoIblzO8=
-
 lodash.debounce@^4.0.8:
   version "4.0.8"
   resolved "https://registry.yarnpkg.com/lodash.debounce/-/lodash.debounce-4.0.8.tgz#82d79bff30a67c4005ffd5e2515300ad9ca4d7af"
@@ -14550,11 +14535,6 @@ loose-envify@^1.0.0, loose-envify@^1.1.0, loose-envify@^1.4.0:
   integrity sha512-lyuxPGr/Wfhrlem2CL/UcnUc1zcqKAImBDzukY7Y5F/yQiNdko6+fRLevlw1HgMySw7f611UIY408EtxRSoK3Q==
   dependencies:
     js-tokens "^3.0.0 || ^4.0.0"
-
-lottie-web@^5.7.6:
-  version "5.7.14"
-  resolved "https://registry.npmjs.org/lottie-web/-/lottie-web-5.7.14.tgz"
-  integrity sha512-J+QEPse7Rws0XvTqRJNtcE8cszb5FWYFHubEK6bgDJtw64/AQJ40aazbWXsWGBM4sm/PgLBLgmmhDU4QpLiieg==
 
 lower-case@^2.0.2:
   version "2.0.2"
@@ -16448,11 +16428,6 @@ parse-ms@^3.0.0:
   resolved "https://registry.yarnpkg.com/parse-ms/-/parse-ms-3.0.0.tgz#3ea24a934913345fcc3656deda72df921da3a70e"
   integrity sha512-Tpb8Z7r7XbbtBTrM9UhpkzzaMrqA2VXMT3YChzYltwV3P3pM6t8wl7TvpMnSTosz1aQAdVib7kdoys7vYOPerw==
 
-parse-unit@^1.0.1:
-  version "1.0.1"
-  resolved "https://registry.npmjs.org/parse-unit/-/parse-unit-1.0.1.tgz"
-  integrity sha1-fhu21b7zh0wo45JSaiVBFwKR7s8=
-
 parse5@5.1.1:
   version "5.1.1"
   resolved "https://registry.npmjs.org/parse5/-/parse5-5.1.1.tgz"
@@ -18092,14 +18067,6 @@ react-clientside-effect@^1.2.5:
   dependencies:
     "@babel/runtime" "^7.12.13"
 
-react-dark-mode-toggle@^0.2.0:
-  version "0.2.0"
-  resolved "https://registry.npmjs.org/react-dark-mode-toggle/-/react-dark-mode-toggle-0.2.0.tgz"
-  integrity sha512-YGN6EKU54TaEIQ2G5veB+XVRXSsbyrW9+rop/1Ap06A0z1j6QBVuMIZjhQpwYLKVhSPIxoe7zsWj0cZaEf7cQA==
-  dependencies:
-    parse-unit "^1.0.1"
-    react-lottie-player "^1.1.1"
-
 react-dev-utils@^11.0.3:
   version "11.0.4"
   resolved "https://registry.npmjs.org/react-dev-utils/-/react-dev-utils-11.0.4.tgz"
@@ -18129,16 +18096,6 @@ react-dev-utils@^11.0.3:
     shell-quote "1.7.2"
     strip-ansi "6.0.0"
     text-table "0.2.0"
-
-react-dom@^16.13.1:
-  version "16.14.0"
-  resolved "https://registry.npmjs.org/react-dom/-/react-dom-16.14.0.tgz"
-  integrity sha512-1gCeQXDLoIqMgqD3IO2Ah9bnf0w9kzhwN5q4FGnHZ67hBm9yePzB5JJAIQCc8x3pFnNlwFq4RidZggNAAkzWWw==
-  dependencies:
-    loose-envify "^1.1.0"
-    object-assign "^4.1.1"
-    prop-types "^15.6.2"
-    scheduler "^0.19.1"
 
 react-dom@^17.0.2:
   version "17.0.2"
@@ -18185,15 +18142,6 @@ react-is@^17.0.1:
   version "17.0.1"
   resolved "https://registry.npmjs.org/react-is/-/react-is-17.0.1.tgz"
   integrity sha512-NAnt2iGDXohE5LI7uBnLnqvLQMtzhkiAOLXTmv+qnF9Ky7xAPcX8Up/xWIhxvLVGJvuLiNc4xQLtuqDRzb4fSA==
-
-react-lottie-player@^1.1.1:
-  version "1.4.1"
-  resolved "https://registry.npmjs.org/react-lottie-player/-/react-lottie-player-1.4.1.tgz"
-  integrity sha512-8dw3Dt8h6iTIrA+Iz7N/rOZjY1ShEwoxsgFywW2hZPFf58mZL75NFFNXY6v95NNj/25kZQpMV/bDkNoxj4Sang==
-  dependencies:
-    fast-deep-equal "^3.1.3"
-    lodash.clonedeep "^4.5.0"
-    lottie-web "^5.7.6"
 
 react-parallax-tilt@^1.7.68:
   version "1.7.68"
@@ -18306,14 +18254,6 @@ react-scroll@^1.8.4:
     lodash.throttle "^4.1.1"
     prop-types "^15.7.2"
 
-react-use-dark-mode@^2.0.3:
-  version "2.0.3"
-  resolved "https://registry.npmjs.org/react-use-dark-mode/-/react-use-dark-mode-2.0.3.tgz"
-  integrity sha512-KE5Q9LEWdzkPWmP4l6fdTo6Lv7xYLBa1nLCqxj7COagrUdP2FipagUquUWXWbGqdaGb1CMm1fE8JJjIlTSF6Lw==
-  dependencies:
-    react "^16.13.1"
-    react-dom "^16.13.1"
-
 react-vertical-timeline-component@^3.5.2:
   version "3.5.2"
   resolved "https://registry.npmjs.org/react-vertical-timeline-component/-/react-vertical-timeline-component-3.5.2.tgz"
@@ -18322,15 +18262,6 @@ react-vertical-timeline-component@^3.5.2:
     classnames "^2.2.6"
     prop-types "^15.7.2"
     react-intersection-observer "^8.26.2"
-
-react@^16.13.1:
-  version "16.14.0"
-  resolved "https://registry.npmjs.org/react/-/react-16.14.0.tgz"
-  integrity sha512-0X2CImDkJGApiAlcf0ODKIneSwBPhqJawOa5wCtKbu7ZECrmS26NvtSILynQ66cgkT/RJ4LidJOc3bUESwmU8g==
-  dependencies:
-    loose-envify "^1.1.0"
-    object-assign "^4.1.1"
-    prop-types "^15.6.2"
 
 react@^17.0.2:
   version "17.0.2"
@@ -19168,14 +19099,6 @@ saxes@^5.0.0:
   integrity sha512-5LBh1Tls8c9xgGjw3QrMwETmTMVk0oFgvrFSvWx62llR2hcEInrKNZ2GZCCuuy2lvWrdl5jhbpeqc5hRYKFOcw==
   dependencies:
     xmlchars "^2.2.0"
-
-scheduler@^0.19.1:
-  version "0.19.1"
-  resolved "https://registry.npmjs.org/scheduler/-/scheduler-0.19.1.tgz"
-  integrity sha512-n/zwRWRYSUj0/3g/otKDRPMh6qv2SYMWNq85IEa8iZyAv8od9zDYpGSnpBEjNgcMNq6Scbu5KfIPxNF72R/2EA==
-  dependencies:
-    loose-envify "^1.1.0"
-    object-assign "^4.1.1"
 
 scheduler@^0.20.2:
   version "0.20.2"
@@ -20349,11 +20272,6 @@ styled-components@^5.3.1:
     shallowequal "^1.1.0"
     supports-color "^5.5.0"
 
-styled-theming@^2.2.0:
-  version "2.2.0"
-  resolved "https://registry.npmjs.org/styled-theming/-/styled-theming-2.2.0.tgz"
-  integrity sha1-MITkPUDqq0vBHrr9PeBONiL+434=
-
 stylehacks@^4.0.0:
   version "4.0.3"
   resolved "https://registry.npmjs.org/stylehacks/-/stylehacks-4.0.3.tgz"
@@ -21432,21 +21350,6 @@ use-callback-ref@^1.2.5:
   version "1.2.5"
   resolved "https://registry.npmjs.org/use-callback-ref/-/use-callback-ref-1.2.5.tgz"
   integrity sha512-gN3vgMISAgacF7sqsLPByqoePooY3n2emTH59Ur5d/M8eg4WTWu1xp8i8DHjohftIyEx0S08RiYxbffr4j8Peg==
-
-use-dark-mode@^2.3.1:
-  version "2.3.1"
-  resolved "https://registry.npmjs.org/use-dark-mode/-/use-dark-mode-2.3.1.tgz"
-  integrity sha512-hmcdJR96tTustRQdaQwe6jMrZHnmPqXBxgy4jaQ4gsfhwajsCpjECuq9prgDe9XxMx/f9r96o2/md6O4Lwhwjg==
-  dependencies:
-    "@use-it/event-listener" "^0.1.2"
-    use-persisted-state "^0.3.0"
-
-use-persisted-state@^0.3.0:
-  version "0.3.3"
-  resolved "https://registry.npmjs.org/use-persisted-state/-/use-persisted-state-0.3.3.tgz"
-  integrity sha512-pCNlvYC8+XjRxwnIut4teGC9f2p9aD88R8OGseQGZa2dvqG/h1vEGk1vRE1IZG0Vf161UDpn+NlW4+UGubQflQ==
-  dependencies:
-    "@use-it/event-listener" "^0.1.2"
 
 use-sidecar@^1.0.5:
   version "1.0.5"
